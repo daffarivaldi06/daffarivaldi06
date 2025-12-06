@@ -61,6 +61,9 @@ I am a dedicated technology professional with a diverse background ranging from 
 
 ## 🎓 Education
 
+* **Master IT for Smart and Sustainable Mobility (IT4SSM)** | Université Polytechnique Hauts-de-France (UPHF)
+    * *Status:* Ongoing
+
 * **Bachelor's degree in Informatics Engineering** | State Polytechnic of Jakarta
     * *GPA:* 3.51/4.00 (**Cum Laude**)
     * *Year:* 2019 - 2023
