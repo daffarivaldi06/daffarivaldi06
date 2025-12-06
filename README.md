@@ -1,5 +1,7 @@
 # Hi there, I'm Daffa Ahmad Rivaldi! 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daffarivaldi06.github.io/portfolio/)
+
 I am a dedicated technology professional with a diverse background ranging from **Software Engineering** to **Project Management** and **Business Intelligence**. Graduating **Cum Laude** in Informatics Engineering, I am passionate about building efficient technical solutions, managing end-to-end project cycles, and leveraging data to drive business goals.
 
 ---
@@ -90,5 +92,6 @@ I am a dedicated technology professional with a diverse background ranging from 
 
 ## 📫 Connect with Me
 
+* 🌐 **Portfolio:** [Visit My Portfolio](https://daffarivaldi06.github.io/portfolio/)
 * 📧 **Email:** daffarivaldi06@gmail.com
 * 📍 **Location:** Lille, France
